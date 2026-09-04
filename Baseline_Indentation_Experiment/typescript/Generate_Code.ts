@@ -1,4 +1,4 @@
-import {do_random_array_sort} from "../../../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
+import {do_random_array_sort} from "../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
 
 export abstract class Term {
     abstract print_into(array: string[], indentation_depth: number, indentation_size: number);

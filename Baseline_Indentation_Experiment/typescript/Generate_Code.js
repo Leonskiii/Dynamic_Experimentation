@@ -1,4 +1,4 @@
-import { do_random_array_sort } from "../../../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
+import { do_random_array_sort } from "../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
 export class Term {
     print_string(indentation_size) {
         let arr = [];

@@ -1,5 +1,5 @@
-import {do_random_array_sort} from "../../../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
-import {Nouns} from "../../../../N_of_1_Experiments/modules/Words/Nouns.js";
+import {do_random_array_sort} from "../../N_of_1_Experiments/modules/Experimentation/Experimentation.js";
+import {Nouns} from "../../N_of_1_Experiments/modules/Words/Nouns.js";
 
 const nouns_instance = new Nouns();
 const used_nouns     = new Set<string>();
