@@ -1,0 +1,6 @@
+.js
+/node_modules
+/build
+/.idea
+
+!modules_hard_import/**
