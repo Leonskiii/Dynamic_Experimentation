@@ -19,6 +19,7 @@ Clone the current repository:
 ```
 git clone https://github.com/Leonskiii/Dynamic_Experimentation.git
 ```
+To run an experiment, open the `Indentation_Vertical_Jumps.html` file in the corresponding experiment directory.
 
 ## Structure of the Repository
 
